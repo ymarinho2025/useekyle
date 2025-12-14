@@ -23,7 +23,7 @@ h2.sobre {
 img.sobre {
     display: block;
     margin: 0 auto;
-    width: 400px;
+    width: 350px;
 }
 
 a.instagram {
@@ -59,4 +59,15 @@ h1.ky {
     color: white;
     margin: 0 auto;
 
+}
+
+.creator, a.creator {
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+}
+
+a.link {
+    color: yellow;
 }
